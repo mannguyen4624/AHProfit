@@ -1,4 +1,6 @@
-# README
+# Ruby on Rails Tutorial
+
+### Yo, Github. It's ya boi, nitoplol, coming at ya with another repository.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
